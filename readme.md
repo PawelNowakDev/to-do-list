@@ -16,4 +16,4 @@ https://pawelnowakdev.github.io/to-do-list/
 
 If you want to use "to do list", please use my application. You can add new task and also remove it. It's in polish language. 
 
-![How to use it](https://github.com/PawelNowakDev/Currency-converter/blob/main/images/CurrencyConverterAnimation.gif?raw=true)
+![How to use it]
